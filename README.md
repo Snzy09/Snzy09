@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi I'm | Sanzzy</h1>
 
 <p align="center">
-  <a href="https://github.com/sanzzyqoe"><img src="http://readme-typing-svg.herokuapp.com?font=Kanit&color=30A7F7FF&size=30&center=true&vCenter=true&width=500&height=51&multiline=false&lines=Just+Normal+People+From+Indonesia.;Im+17+Years+old.;.+.+." alt="Nevt">
+  <a href="https://github.com/sanzzmd"><img src="http://readme-typing-svg.herokuapp.com?font=Kanit&color=30A7F7FF&size=30&center=true&vCenter=true&width=500&height=51&multiline=false&lines=Just+Normal+People+From+Indonesia.;Im+17+Years+old.;.+.+." alt="Nevt">
 </p>
 
 ###
