@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi I'm | Sanzzy</h1>
 
 <p align="center">
-  <a href="https://github.com/Sanzz-MD"><img src="http://readme-typing-svg.herokuapp.com?font=Kanit&color=30A7F7FF&size=30&center=true&vCenter=true&width=500&height=51&multiline=false&lines=Just+Normal+People+From+Indonesia.;Im+17+Years+old.;.+.+." alt="Nevt">
+  <a href="https://github.com/Snzy09"><img src="http://readme-typing-svg.herokuapp.com?font=kanit&color=30a7f7ff&size=30&center=true&vcenter=true&width=500&height=51&multiline=false&lines=just+a+newbie+coder+from+indonesia.;im+17+years+old.;.+.+." alt="Nevt">
 </p>
 
 ###
@@ -41,7 +41,7 @@
 # « GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sanzz-MD&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sanzz-MD&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanzz-MD&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Snzy09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sanzz-MD&icon=7&color=8)](https://visitcount.itsvg.in)
