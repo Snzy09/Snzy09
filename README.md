@@ -35,12 +35,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sanzz-MD"><img src="https://count.getloli.com/get/@Sanzz-MD?theme=rule34" alt="visitor"></a>
+  <a href="https://github.com/Snzy09"><img src="https://count.getloli.com/get/@Snzy09?theme=rule34" alt="visitor"></a>
 </p>
 
 # « GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sanzz-MD&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sanzz-MD&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Snzy09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Snzy09&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Snzy09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
