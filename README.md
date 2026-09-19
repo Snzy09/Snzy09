@@ -1,3 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=&fontSize=25&fontColor=000000"/>
+
+<div align="center">
 <h1 align="center"> 👋 Hi I'm | Sanzzy</h1>
 
 <p align="center">
@@ -43,6 +46,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Snzy09&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Snzy09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+ <div align="center">
+    <img
+      src="https://github-trophies.vercel.app/?username=Snzy09&theme=discord&no-frame=true&no-bg=true&margin-w=4"
+    />
+  </div>
+
+[![m-bwela's GitHub stats](https://readmestats.999857.xyz/api?username=Snzy09&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=m-bwela&show_icons=true&theme=chartreuse-dark&border_radius=2)
+
+![Top Langs](https://github-readme-stats-ashy-alpha-45.vercel.app/api/top-langs/?username=Snzy09&theme=chartreuse-dark&hide_icons=true&hide_border=true&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=Sanzz-MD&icon=7&color=8)](https://visitcount.itsvg.in)
 
